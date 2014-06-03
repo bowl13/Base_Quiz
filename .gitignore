@@ -1,0 +1,27 @@
+# User specific & automatically generated files #
+#################################################
+/site/Config/database.php
+/site/tmp
+/plugins
+/vendors
+/build
+/dist
+/tags
+/site/webroot/css/styles.css
+/site/webroot/files/**
+/Vendor
+
+# OS generated files #
+######################
+**/.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# SASS Cache #
+######################
+**/.sass-cache
