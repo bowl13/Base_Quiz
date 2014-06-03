@@ -10,6 +10,7 @@
 /site/webroot/css/styles.css
 /site/webroot/files/**
 /Vendor
+composer.lock
 
 # OS generated files #
 ######################
