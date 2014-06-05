@@ -96,3 +96,7 @@ CakeLog::config('error', array(
 	'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
 	'file' => 'error',
 ));
+
+#CakePlugin::load('Facebook', array('bootstrap' => false, 'routes' => false));
+
+CakePlugin::load('Facebook'); //Loads a single plugin
